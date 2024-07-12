@@ -1,4 +1,3 @@
-print("hello world")
-x=1
-y=2
-print(x - y)
+print("早上好")
+x="我愛吃冰淇淋"
+print(x)
